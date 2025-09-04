@@ -11,11 +11,12 @@
 ### Screenshot
 
 ![](./screenshot/newshome-desktop.png)
+
 ![](./screenshot/newshome-mobile.png)
 
 ### links
 
-- Live Site URL (#link)
+- Live Site URL (#https://msaadat1.github.io/news-homepage-main/)
 
 ## My Progress
 
